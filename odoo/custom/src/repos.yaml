@@ -20,12 +20,6 @@ l10n-brazil:
     depth: $DEPTH_MERGE
   merges:
     - origin $ODOO_VERSION
-    - origin refs/pull/1887/head # Escodoo:14.0-mig-l10n_br_fiscal_queue
-    - origin refs/pull/1928/head # Escodoo:14.0-fix-l10n_br_nfse-inscr-estadual-isenta
-    - origin refs/pull/2362/head # Escodoo:14.0-l10n_br_fiscal_account-inss_reduction_manual
-    - origin refs/pull/2569/head # Escodoo:14.0-add-l10n_br_account_fleet
-    - origin refs/pull/2624/head # Escodoo:14.0-add-l10n_br_purchase_requisition
-    - origin refs/pull/2627/head # Escodoo:14.0-imp-fiscal-message-on-nfse
     - origin refs/pull/2781/head # akretion:14.0-nfe-account-move-import
   remotes:
     escodoo: https://github.com/Escodoo/l10n-brazil
