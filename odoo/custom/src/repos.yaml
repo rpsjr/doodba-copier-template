@@ -22,6 +22,5 @@ l10n-brazil:
     - origin $ODOO_VERSION
     - origin refs/pull/2781/head # akretion:14.0-nfe-account-move-import
   remotes:
-    escodoo: https://github.com/Escodoo/l10n-brazil
     origin: https://github.com/OCA/l10n-brazil
   target: origin merged
