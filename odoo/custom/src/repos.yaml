@@ -19,8 +19,7 @@ l10n-brazil:
   defaults:
     depth: $DEPTH_MERGE
   merges:
-    - origin $ODOO_VERSION
-    - origin refs/pull/2781/head # akretion:14.0-nfe-account-move-import
+    - origin 14.0-nfe-account-move-import
   remotes:
     akretion: https://github.com/akretion/l10n-brazil
     origin: https://github.com/OCA/l10n-brazil
